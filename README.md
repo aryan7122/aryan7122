@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Girl in a jacket" width="400" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan7122&label=Profile%20views&color=0e75b6&style=flat" alt="aryan7122" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan7122" alt="aryan7122" /></a> </p>
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Girl in a jacket" width="400" align="right" >
 
 - 🌱 I’m currently learning **Web development (MERN) Stack**
 
