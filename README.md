@@ -1,10 +1,11 @@
 <h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Aryan Kushwaha </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan7122&label=Profile%20views&color=0e75b6&style=flat" alt="aryan7122" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan7122" alt="aryan7122" /></a> </p>
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Girl in a jacket" width="400" align="right" >
+<hr/>
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Girl in a jacket" width="200" align="right" >
 
 - 🌱 I’m currently learning **Web development (MERN) Stack**
 
@@ -25,9 +26,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aryan7122"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryan7122" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan7122&show_icons=true&locale=en&layout=compact" alt="aryan7122" /></p>
+<hr/>
+<p><img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan7122&show_icons=true&locale=en&layout=compact" alt="aryan7122" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan7122&show_icons=true&locale=en" alt="aryan7122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan7122&" alt="aryan7122" /></p>
+<hr/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=067FD0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
