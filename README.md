@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web development (MERN) Stack**
 
-- 👨‍💻 All of my projects are available at [coming soon ...](coming soon ...)
+- 👨‍💻 All of my projects are available at [https://github.com/aryan7122?tab=repositories]
 
 - 📫 How to reach me **aryankushwahalifenote@gmail.com**
 
