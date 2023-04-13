@@ -7,7 +7,7 @@
 <hr/>
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Girl in a jacket" width="200" align="right" >
 
-- 🌱 I’m currently learning **Web development (MERN) Stack**
+- 🌱 I’m currently learning **Web development (React JS)**
 
 - 👨‍💻 All of my projects are available at [<a href="https://github.com/aryan7122?tab=repositories">📰 hare <a/>]
 
