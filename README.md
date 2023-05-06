@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at [<a href="https://github.com/aryan7122?tab=repositories">📰 hare <a/>]
 
 - 📫 How to reach me **aryankushwahalifenote@gmail.com**
+  
 <hr/>
+  <h1>My Github Stats</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=aryan7122&theme=algolia" align="center" alt="aryan7122" width="100%" />
 <hr/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan7122&theme=2077" width="100%" />
